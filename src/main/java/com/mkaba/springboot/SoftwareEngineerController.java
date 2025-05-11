@@ -19,4 +19,6 @@ public class SoftwareEngineerController {
                 new SoftwareEngineer(2, "James", Collections.singletonList("java, spring"))
         );
     }
+
+    //:)
 }
